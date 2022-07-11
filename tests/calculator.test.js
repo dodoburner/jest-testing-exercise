@@ -1,4 +1,4 @@
-const calculator = require('./calculator')
+const calculator = require('../functions/calculator')
 
 describe('adding', () => {
   test('2 + 2 is 4', () => {
